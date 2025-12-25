@@ -1,0 +1,7 @@
+{
+  "name": "MapGenie AI Chatbot",
+  "description": "An interactive chatbot that uses real-time Google Maps and Search grounding to answer location-specific questions and visualize places on an interactive map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
